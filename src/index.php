@@ -2,10 +2,10 @@
 
 echo "<p>Bonjour !</p>";
 
-$servername = "mysql";
+$servername = "mysql-service";
 $username = "user";
-$password = "password";
-$dbname = "appdb";
+$password = "secret";
+$dbname = "db";
 
 try {
 
