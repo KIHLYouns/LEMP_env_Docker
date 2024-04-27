@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-linux
+
 <head>
     <title>OS form</title>
     <link rel="stylesheet" href="styles.css" />
