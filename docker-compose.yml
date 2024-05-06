@@ -1,4 +1,4 @@
-version: '3.9'
+version: '3.8'
 
 services:
 
@@ -13,7 +13,6 @@ services:
   php-service:
     image: kihlyouns/php-service:latest
     container_name: php-container
-
 
   mysql-service:
     image: mysql:8
